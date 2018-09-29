@@ -1,0 +1,33 @@
+baseURL = "https://sijmenschoon.nl/"
+languageCode = "en-us"
+title = "sijmenschoon.nl"
+theme = "hugo-coder"
+
+[params]
+author = "Sijmen Schoon"
+info = "Developer"
+keywords = "developer,personal"
+avatarurl = "images/avatar.jpg"
+
+hidecredits = true
+hidecopyright = true
+
+custom_css = ["css/style.css"]
+
+[[params.social]]
+name = "GitHub"
+icon = "fab fa-github fa-3x"
+weight = 1
+url = "https://github.com/SijmenSchoon/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fab fa-linkedin fa-3x"
+weight = 2
+url = "https://www.linkedin.com/in/sijmenschoon/"
+
+[[params.social]]
+name = ""
+icon = "fas fa-envelope fa-3x"
+weight = 3
+url = "mailto:info@sijmenschoon.nl"
