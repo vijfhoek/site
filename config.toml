@@ -2,6 +2,7 @@ baseURL = "https://sijmenschoon.nl/"
 languageCode = "en-us"
 title = "sijmenschoon.nl"
 theme = "hugo-coder"
+publishDir = "docs"
 
 [params]
 author = "Sijmen Schoon"

@@ -1,3 +1,6 @@
 [submodule "hugo-coder"]
 	path = themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "public"]
+	path = public
+	url = git@github.com:SijmenSchoon/site-pages.git
