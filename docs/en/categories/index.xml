@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sijmen Schoon</title>
-    <link>https://sijmenschoon.nl/categories/</link>
+    <link>https://sijmenschoon.nl/en/categories/</link>
     <description>Recent content in Categories on Sijmen Schoon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl</language><atom:link href="https://sijmenschoon.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl</language><atom:link href="https://sijmenschoon.nl/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

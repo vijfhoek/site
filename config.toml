@@ -1,12 +1,13 @@
 baseURL = "https://sijmenschoon.nl/"
-languageCode = "en-us"
-title = "sijmenschoon.nl"
+languageCode = "nl"
+defaultContentLanguage = "nl"
+title = "Sijmen Schoon"
 theme = "hugo-coder"
 publishDir = "docs"
 
 [params]
 author = "Sijmen Schoon"
-info = "Developer"
+info = "Software Engineer"
 keywords = "developer,personal"
 avatarurl = "images/avatar.jpg"
 
@@ -32,3 +33,33 @@ name = ""
 icon = "fa fa-envelope fa-2x"
 weight = 3
 url = "mailto:info@sijmenschoon.nl"
+
+[languages.en]
+languageName = "🇬🇧"
+
+[[languages.en.menu.main]]
+name = "Résumé"
+weight = 1
+url = "resume/"
+
+[[languages.en.menu.main]]
+name = "Portfolio"
+weight = 2
+url = "portfolio/"
+
+
+[languages.nl]
+languageName = "🇳🇱"
+
+[[languages.nl.menu.main]]
+name = "Curriculum Vitae"
+weight = 1
+url = "resume/"
+
+[[languages.nl.menu.main]]
+name = "Portfolio"
+weight = 2
+url = "portfolio/"
+
+[markup.goldmark.renderer]
+unsafe = true

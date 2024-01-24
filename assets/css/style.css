@@ -1,0 +1,35 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+span, 
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+pre,
+code {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 4.0rem;
+  line-height: 4.2rem;
+  font-weight: 400;
+}
+
+body {
+  line-height: 1.15rem !important;
+}

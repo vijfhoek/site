@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sijmenschoon.nl</title>
+    <title>Sijmen Schoon</title>
     <link>https://sijmenschoon.nl/</link>
-    <description>Recent content on sijmenschoon.nl</description>
+    <description>Recent content on Sijmen Schoon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sijmenschoon.nl/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl</language><atom:link href="https://sijmenschoon.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://sijmenschoon.nl/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sijmenschoon.nl/resume/</guid>
+      <description>Voor een gedetailleerder CV, met meer persoonlijke gegevens en referenties, neem s.v.p. contact met me op via één van de manieren weergegeven op de home-pagina.
+Snel naar: Ervaring • Vrijwilligerswerk • Opleidingen
+Ervaring Link to heading aug. 2021
+&amp;ndash; jan. 2024
+(2 jr 6 mnd) Software Engineer &amp;nbsp;&amp;bull;&amp;nbsp; Health Cloud Initiative Gedurende mijn tijd bij Health Cloud Initiative werkte ik in een team aan het elektronisch patiëntendossier (EPD) Incura. Hiervoor heb ik met name met C# (zowel .</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://sijmenschoon.nl/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sijmenschoon.nl/portfolio/</guid>
+      <description>Deze pagina toont een aantal van mijn projecten waar ik trots op ben en graag laat zien. Voor meer van mijn (voornamelijk onopvallende) projecten, bekijk mijn GitHub-profiel of mijn zelf-gehoste Forgejo-instantie.
+Empede Link to heading Empede is een webclient voor MPD (Music Player Daemon). Het is geschreven in Rust, HTML, CSS en JavaScript, waarbij actix-web wordt gebruikt voor de backend, askama voor template rendering, en htmx als frontend-framework.
+De client nadert de functionaliteit van andere populaire MPD-webclients, zoals phpMp.</description>
+    </item>
+    
   </channel>
 </rss>
